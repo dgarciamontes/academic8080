@@ -1,6 +1,6 @@
 ﻿namespace Gui8080
 {
-    partial class Form1
+    partial class MainWindow
     {
         /// <summary>
         /// Required designer variable.

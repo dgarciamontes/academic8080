@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core8080.Memory
+namespace Interpreter8080
 {
-    interface IRegisters8080
+    public class Class1
     {
-
-        IRegisters8080 getInstance();
     }
 }
