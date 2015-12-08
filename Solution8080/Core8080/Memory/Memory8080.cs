@@ -39,6 +39,9 @@ namespace Core8080.Memory
         public override byte[] WriteAdress(byte data, int address)
         {
             throw new NotImplementedException();
+
+            //Launch event
+            OnChanged(EventArgs.Empty);
         }
     }
 }
